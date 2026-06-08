@@ -1,0 +1,15 @@
+package days02;
+
+public class Test01 {
+
+	public static void main(String[] args) {
+		System.out.println("신창만");
+		System.out.println("Hello World");
+	}
+
+	    /*
+	 * 
+	 * 
+	 * 
+	 */
+}
