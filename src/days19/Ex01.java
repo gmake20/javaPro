@@ -12,6 +12,7 @@ public class Ex01 {
 		// TODO Auto-generated method stub
 
 		/*
+			git 실습을 위한 기본 url 
 			
 			https://github.com/gmake20/javaPro.git
 			
@@ -211,8 +212,17 @@ public class Ex01 {
 				   aac67b6..8c558c0  main -> main		
 				===============================================================
  			
-===============  VS Code ================================== 			
-===============================================================
+				===============  VS Code ==================================
+				git remote -v
+				git status
+				git branch
+				
+				git init
+				git remote add origin url
+				git add .
+				git commit "abc"
+				git push -u origin main 			
+				===============================================================
  			
 ===============  VS Code ================================== 			
 ===============================================================
